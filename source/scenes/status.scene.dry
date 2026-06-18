@@ -12,7 +12,7 @@ on-display: {!
     }
 !}
 
-**Update: Biden X Trump Yuri!!!**
+**Update: Just fucking work dumbass**
 
 [+ month : month +] [+ year +] 
 
@@ -26,7 +26,7 @@ Internal dissent: [+ dissent_percent : dissent +]
 
 = Government
 
-President: [+ president +] ([? if president = "Hindenburg" : "None" ?][? if president != "Hindenburg" : [+ president_party +]?])
+President: [+ president +] ([? if president = "Hindenburg" : None?][? if president != "Hindenburg" : [+ president_party +]?])
 
 Chancellor: [+ chancellor +] ([+ chancellor_party +])
 

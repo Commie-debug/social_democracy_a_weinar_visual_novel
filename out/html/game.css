@@ -649,6 +649,7 @@ img.inline-img.icon {
     width: 100%;
     text-align: center;
     margin-bottom: 0.5em;
+    background-color: var(--content-bg-color);
 }
 .main-portrait-label {
     font-weight: bold;
