@@ -6,7 +6,7 @@ go-to: post_event if started = 1; start_menu if started = 0
 new-page: true
 go-to: start_menu_2
 
-= Beeshana Kalaya: An Alternate History
+= Weimar Visual Novel
 
 @start_menu_2
 
@@ -21,13 +21,13 @@ Q.started = 1;
 // time elapsed (in months)
 Q.time = 1;
 Q.week = 1;
-Q.year = 1981;
+Q.year = 1928;
 Q.month = 1;
 // how many actions have been taken this month?
 Q.month_actions = 0;
 Q.day_actions = 0;
 
-Q.bg_image = "img/map_2.jpg";
+Q.bg_image = "img/class.jpg";
 
 
 Q.state_of_emergency = 0;
