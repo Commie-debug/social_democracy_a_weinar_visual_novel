@@ -100,15 +100,19 @@ const tooltipList = [
     },
     {
     searchString: "Donald Trump",
-    explanationText: "<img src=img/DJT.jpg> 45th 47th President of the United States, Donald John Trump"
+    explanationText: "<img src=img/DJT.jpg> 45th & 47th President of the United States, Donald John Trump"
     },
     {
     searchString: "Trump",
-    explanationText: "<img src=img/DJT.jpg> 45th 47th President of the United States, Donald John Trump"
+    explanationText: "<img src=img/DJT.jpg> 45th & 47th President of the United States, Donald John Trump"
     },
     {
     searchString: "Donald J Trump",
-    explanationText: "<img src=img/DJT.jpg> 45th 47th President of the United States, Donald John Trumps"
+    explanationText: "<img src=img/DJT.jpg> 45th & 47th President of the United States, Donald John Trump"
+    },
+    {
+    searchString: "Bing chi ling",
+    explanationText: "<img src=img/john_cena.webp> "
     },
     {
     searchString: "NSDAP",
