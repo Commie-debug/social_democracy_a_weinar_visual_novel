@@ -4,7 +4,7 @@ new-page: true
 tags: event
 on-arrival: {! portrait_img = "img/WIP.jpg"; !}
 
-{!<div class="main-portrait-box"><div class="main-portrait-label"></div><img class="main-portrait-img" src="img/WIP.jpg"></div>!}
+{!<div class="main-portrait-box"><div class="main-portrait-label">Zentrum-chan</div><img class="main-portrait-img" src="img/WIP.jpg"></div>!}
 
 Zentrum-chan politely waited for me after the end of class , and she doesn't waste any time bringing up the hottest subject to talk about.
 
