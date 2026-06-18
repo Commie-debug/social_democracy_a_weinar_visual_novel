@@ -58,7 +58,7 @@ header, #content, footer {
   font-size: 1.1em;
   padding: 1em 1.5em 1.5em 1.5em;
   min-height: 20vh;
-  max-height: 70;
+  height: 70;
   overflow-y: auto;
   box-shadow: none;
 }

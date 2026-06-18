@@ -2,9 +2,9 @@ title: A scandal!!!
 max-visits: 1
 new-page: true
 tags: event
+on-arrival: {! portrait_img = "img/WIP.jpg"; !}
 
-{!<div class="main-portrait-box"><div class="main-portrait-label">Vorwärts - 3.01.1928</div><img class="main-portrait-img" src="img/obamna.webp"></div>!}
-
+{!<div class="main-portrait-box"><div class="main-portrait-label">Vorwärts - 3.01.1928</div><img class="main-portrait-img" src="!}[+ portrait_img +]{!"></div>!}
 
 The DDP's Minister of Defence has resigned as a result of a scandal where a secret rearmament program was uncovered during bankruptcy proceedings of the Phoebus Film AG production company.
 
