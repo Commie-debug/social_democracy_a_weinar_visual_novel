@@ -638,6 +638,7 @@ go-to: scandal
 on-arrival: {! 
 //music shi
 window.AudioManager.start(); 
+window.AudioManager.playSong('music/Rhine_no_Mamori.mp3');
 window.AudioManager.playSongOnce('music/sfx/School Bell.mp3', 'sfx'); 
 !}
 
