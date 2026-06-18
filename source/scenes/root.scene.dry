@@ -345,6 +345,9 @@ Q.dnvp_in_government = 1;
 Q.kpd_in_government = 0;
 Q.nsdap_in_government = 0;
 
+//current ruling coalition
+Q.current_gov = '(Ham)bürgerblock (Z,DNVP,DVP,BVP)'
+
 Q.in_right_coalition = 0;
 // Weimar coalition = SPD + Z + DDP
 Q.in_weimar_coalition = 0;
