@@ -3,8 +3,10 @@ view-if: year = 1928 and month = 1
 max-visits: 1
 new-page: true
 tags: event
-
-= Vorwärts - 3.01.1928
+on-display: {!
+    document.getElementById('event-title').innerText = "Vorwärts - 3.01.1928";
+    document.getElementById('event-image-box').innerHTML = '<img src="img/obamna.webp">';
+!}
 
 The DDP's Minister of Defence has resigned as a result of a scandal where a secret rearmament program was uncovered during bankruptcy proceedings of the Phoebus Film AG production company.
 
