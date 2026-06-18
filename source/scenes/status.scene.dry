@@ -2,14 +2,15 @@ title: Status
 new-page: true
 is-special: true
 on-display: {!
-    var cardEl = document.createElement('div');
-    cardEl.className = "main-portrait-box";
-    cardEl.innerHTML = '<div class="main-portrait-label">You</div><img class="main-portrait-img" src="img/spd_logo_temp.png">';
-    var contentDiv = document.querySelector("#page #mid_panel #content");
-    contentDiv.insertBefore(cardEl, contentDiv.firstChild);
+    var existing = document.querySelector('#qualities .main-portrait-box');
+    if (!existing) {
+        var cardEl = document.createElement('div');
+        cardEl.className = "main-portrait-box";
+        cardEl.innerHTML = '<div class="main-portrait-label">You</div><img class="main-portrait-img" src="img/spd_logo_temp.png">';
+        var qualitiesDiv = document.querySelector("#qualities");
+        qualitiesDiv.insertBefore(cardEl, qualitiesDiv.firstChild);
+    }
 !}
-
-= Me, SPD
 
 **Update: Biden X Trump Yuri!!!**
 
