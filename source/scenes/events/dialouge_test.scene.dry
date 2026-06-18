@@ -4,7 +4,7 @@ new-page: true
 tags: event
 on-arrival: {! portrait_img = "img/WIP.jpg"; !}
 
-{!<div class="main-portrait-box"><div class="main-portrait-label"></div><img class="main-portrait-img" src="!}[+ portrait_img +]{!"></div>!}
+{!<div class="main-portrait-box"><div class="main-portrait-label"></div><img class="main-portrait-img" src="img/WIP.jpg"></div>!}
 
 Zentrum-chan politely waited for me after the end of class , and she doesn't waste any time bringing up the hottest subject to talk about.
 
@@ -38,7 +38,6 @@ Z: "I bet I'm not the first one to bother you about this, am I?"
 - @d4: "More like the fifth. Which isn't too bad. Given the fact that the entire school seems to know about it, I was prepared for an interrogation by the DVP."
 
 @d4
-on-arrival: {! portrait_img = "img/spd.jpg"; !}
 
 As we leave the classroom, we walk to the courtyard and take a few sips from our water bottles. We sit down for a moment, and Zentrum-chan starts to carefully adjust her necklace:
 
