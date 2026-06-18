@@ -1,0 +1,22 @@
+title: A scandal!!!
+view-if: year = 1928 and month = 1
+max-visits: 1
+new-page: true
+tags: event
+
+= Vorwärts - 3.01.1928
+
+The DDP's Minister of Defence has resigned as a result of a scandal where a secret rearmament program was uncovered during bankruptcy proceedings of the Phoebus Film AG production company.
+
+- @bruh: Hmmm
+
+@bruh
+on-arrival: ddp_relation += 1; month += 1;
+
+My pacifist rhetoric against rearmament of our school militia  has improved my relations with DDP-chan, who shares my pro-democratic stance.
+
+- @next: Continue...
+
+@next
+go-to: death_of_stresemann
+

@@ -1,0 +1,29 @@
+title: Fall of the Right wing Government...
+view-if: year = 1928 and month = 2
+frequency: 1000
+max-visits: 1
+new-page: true
+tags: event
+
+= Vorwärts - 15.02.1928
+
+SPD
+SAPD
+KPD
+DVP
+DDP
+DNVP
+Z
+NSDAP
+BVP
+
+Fall of the <span style="font-weight:bold; color: #3E88B3;">Right</span> Government!
+
+The Right-Wing Coalition composed of Z, her sister BVP, DVP and DNVP has fallen, due to disputes over the School Conection to the Church. While most of the parties support a form of Christianity, the Liberal DVP has expressed concerns over religious influence. This is the fourth Z-led government and Hindenburg, the principal, has lost faith in them, even subtly hinting at a coalition led none other but the SPD!
+
+- @bruh: This is great news!
+
+@bruh
+on-arrival: ddp_relation += 5; z_relation += 5; month += 1;
+
+Indeed it is! Due to our popularity in school, we stand to gain from their loss.
