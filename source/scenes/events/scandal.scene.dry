@@ -19,5 +19,5 @@ My pacifist rhetoric against rearmament of our school militia  has improved my r
 - @next: Continue...
 
 @next
-go-to: event/dialouge_test_event.scene
+go-to: event/dialouge_test_event.scene.dry
 
