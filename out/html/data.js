@@ -96,7 +96,7 @@ const tooltipList = [
     },
     {
     searchString: "SPD",
-    explanationText: "<img src=img/spd_logo_temp.png> Sozialdemokratische Partei Deutschlands"
+    explanationText: "<img src=img/portraits/SPD.png> Sozialdemokratische Partei Deutschlands"
     },
     {
     searchString: "Donald Trump",
@@ -116,7 +116,7 @@ const tooltipList = [
     },
     {
     searchString: "NSDAP",
-    explanationText: "Nationalsozialistische Deutsche Arbeiterpartei"
+    explanationText: "<img src=img/portraits/NSDAP.png> Nationalsozialistische Deutsche Arbeiterpartei"
     },
     {
     searchString: "SAPD",
@@ -124,7 +124,7 @@ const tooltipList = [
     },
     {
     searchString: "Z",
-    explanationText: "Deutsche Zentrumspartei"
+    explanationText: "<img src=img/portraits/Z.png> Deutsche Zentrumspartei"
     },
     {
     searchString: "BVP",
@@ -132,23 +132,18 @@ const tooltipList = [
     },
     {
     searchString: "DVP",
-    explanationText: "Deutsche Volkspartei"
+    explanationText: "<img src=img/portraits/DVP.png> Deutsche Volkspartei"
     },
     {
     searchString: "DDP",
-    explanationText: "Deutsche Demokratische Partei"
+    explanationText: "<img src=img/portraits/DDP.png> Deutsche Demokratische Partei"
     },
     {
     searchString: "KPD",
-    explanationText: "Kommunistische Partei Deutschlands"
+    explanationText: "<img src=img/portraits/KPD.png> Kommunistische Partei Deutschlands"
     },
     {
     searchString: "DNVP",
-    explanationText: "Deutschnationale Volkspartei"
+    explanationText: "<img src=img/portraits/DNVP.png> Deutschnationale Volkspartei"
     },
-    {
-    searchString: "Z",
-    explanationText: "Deutsche Zentrumspartei"
-    },
-
 ];
