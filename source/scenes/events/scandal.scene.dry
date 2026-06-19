@@ -10,12 +10,13 @@ The DDP's Minister of Defence has resigned as a result of a scandal where a secr
 - @bruh: Hmmm
 
 @bruh
-on-arrival: ddp_relation += 1; month += 1;
+on-arrival: ddp_relation += 1; 
 
 My pacifist rhetoric against rearmament of our school militia  has improved my relations with DDP-chan, who shares my pro-democratic stance.
 
 - @next: Continue....
 
 @next
+on-departure: month += 1;
 go-to: dialouge_test
 
