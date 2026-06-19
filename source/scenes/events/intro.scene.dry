@@ -16,6 +16,9 @@ A smile appears on your face as the crowd cheers with delight at the proclaimati
 - @d1: And you wake up.
 
 @d1
+on-arrival: {!
+window.AudioManager.playSongOnce('music/sfx/School Bell.mp3', 'sfx'); 
+!}
 
 It's 1928, I haven't been in government since the DVP led cabinet of 1923, five long years away from government, when will this end?
 
