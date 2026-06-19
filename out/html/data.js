@@ -128,7 +128,7 @@ const tooltipList = [
     },
     {
     searchString: "BVP",
-    explanationText: "<img src=img/portraits/BVP.png>Bayerische Volkspartei"
+    explanationText: "<img src=img/portraits/BVP.png> Bayerische Volkspartei"
     },
     {
     searchString: "DVP",
