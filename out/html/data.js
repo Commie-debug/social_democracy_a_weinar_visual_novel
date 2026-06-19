@@ -112,7 +112,7 @@ const tooltipList = [
     },
     {
     searchString: "Bing chi ling",
-    explanationText: "<img src=img/John_cena.webp> "
+    explanationText: "<img src=img/John_cena.webp>"
     },
     {
     searchString: "NSDAP",
@@ -127,8 +127,12 @@ const tooltipList = [
     explanationText: "<img src=img/portraits/Z.png> Deutsche Zentrumspartei"
     },
     {
+    searchString: "Zentrum-chan",
+    explanationText: "<img src=img/portraits/Z.png> Deutsche Zentrumspartei"
+    },
+    {
     searchString: "BVP",
-    explanationText: "<img src=img/portraits/BVP.png> Bayerische Volkspartei"
+    explanationText: "<img src=img/portraits/BVP.png> Bayerische Volkspartei, Zentrum's sister with a drinking problem"
     },
     {
     searchString: "DVP",
