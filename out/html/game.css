@@ -677,7 +677,7 @@ img.inline-img.icon {
 
 .event-portrait-col {
     flex-shrink: 0;
-    width: 50%;
+    width: 35%;
 }
 
 .event-portrait-img {
@@ -694,16 +694,6 @@ img.inline-img.icon {
     overflow-y: auto;
     padding-right: 0.5em;
 }
-
-#content img.event-portrait-img {
-    float: left;
-    width: 35%;
-    margin-right: 1.5em;
-    margin-bottom: 0.5em;
-    border: 2px solid var(--border-color);
-    border-radius: 4px;
-}
-
 
 .route-characters {
     display: flex;
