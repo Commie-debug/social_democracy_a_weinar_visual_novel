@@ -1,0 +1,25 @@
+title: Intro
+frequency: 1000
+max-visits: 1
+new-page: true
+tags: event
+
+= A New Day
+
+{!<div class="main-portrait-box"><div class="main-portrait-label"></div><img class="main-portrait-img" src="img/intro.jpg"></div>!}
+
+"The German people have triumphed, militarism is finished! The Hohenzollerns have abdicated! Long live the German Republic! 
+Ebert has been proclaimed chancellor of the Reich and has been charged with putting together a new government,this government will include all socialist parties. 
+See to it that nothing sullies this proud day. Let it be a day of honor forever in the history of Germany,long live the German Republic!"
+A smile appears on your face as the crowd cheers with delight at the proclaimation of the republic...
+
+- @d1: And you wake up.
+
+@d1
+
+It's 1928, I haven't been in government since the DVP led cabinet of 1923, five long years away from government, when will this end?
+
+- @d2: Head to the letter box to grab a copy of this month's release of Vorwärts. 
+
+@d2
+go-to: scandal
