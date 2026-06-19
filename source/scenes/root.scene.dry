@@ -640,7 +640,7 @@ go-to: 1928_main
 
 @1928_main
 new-page: true
-go-to: events/intro
+go-to: intro
 on-arrival: {! 
 //music shi
 window.AudioManager.start(); 
