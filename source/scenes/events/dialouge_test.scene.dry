@@ -13,6 +13,9 @@ Z: "So, SPD-chan are the rumors I've heard true?"
 
 @d1
 
+{!<div class="event-layout"><div class="event-portrait-col">Zentrum-chan<img class="event-portrait-img" src="img/portraits/Z_Full.png"></div><div class="event-dialogue-col">!}
+
+
 Z: "Don't tell me you don't know. I don't keep up with much gossip, and I have even heard about it."
 
 I sigh. Of course, I knew. After DDP-Chan and I confessed to one another in the park, and we were walking through town to get something to drink, She gave me what she called her first gift to me: a sweet kiss on the lips that marked the official start of our relationship. But it turned out that our little public display of affection had been spotted by the DNVP, and a day later the rumor mill was working overtime spreading the news throughout the hallways of the school.
@@ -21,12 +24,18 @@ I sigh. Of course, I knew. After DDP-Chan and I confessed to one another in the 
 
 @d2
 
+{!<div class="event-layout"><div class="event-portrait-col">Zentrum-chan<img class="event-portrait-img" src="img/portraits/Z_Full.png"></div><div class="event-dialogue-col">!}
+
+
 Z: "About the DDP kissing someone in the middle of the street..."
 
 
 - @d3: "Guilty as charged. Is that enough for you?"
 
 @d3
+
+{!<div class="event-layout"><div class="event-portrait-col">Zentrum-chan<img class="event-portrait-img" src="img/portraits/Z_Full.png"></div><div class="event-dialogue-col">!}
+
 
 Zentrum-chan giggled and smirked.
 
@@ -38,6 +47,9 @@ Z: "I bet I'm not the first one to bother you about this, am I?"
 
 @d4
 
+{!<div class="event-layout"><div class="event-portrait-col">Zentrum-chan<img class="event-portrait-img" src="img/portraits/Z_Full.png"></div><div class="event-dialogue-col">!}
+
+
 As we leave the classroom, we walk to the courtyard and take a few sips from our water bottles. We sit down for a moment, and Zentrum-chan starts to carefully adjust her necklace:
 
 
@@ -48,6 +60,9 @@ Z: "The rumor isn't really about you, you know. I mean, you're just an average s
 
 @d5
 
+{!<div class="event-layout"><div class="event-portrait-col">Zentrum-chan<img class="event-portrait-img" src="img/portraits/Z_Full.png"></div><div class="event-dialogue-col">!}
+
+
 Z: "I don't think anyone except you and DVP-san really know her. But I bet most students know who she is. Sometimes, when you try hard enough to avoid being noticed, you end up standing out all the more."
 "How did she react to the attention?"
 
@@ -55,6 +70,9 @@ Z: "I don't think anyone except you and DVP-san really know her. But I bet most 
 - @d6: "She hates it. What did you expect? Before, she merely thought the others were staring at her all the time. Now, she KNOWS people are staring. She's been ditching the last few minutes of every class so far in an attempt to avoid DVP-san, and she's even taken off her favorite hair clip to pass as her sister"
 
 @d6
+
+{!<div class="event-layout"><div class="event-portrait-col">Zentrum-chan<img class="event-portrait-img" src="img/portraits/Z_Full.png"></div><div class="event-dialogue-col">!}
+
 
 Zentrum-chan looks down for a moment as she hears this, and gives me a sad smile.
 
