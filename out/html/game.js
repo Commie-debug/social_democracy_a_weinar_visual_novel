@@ -299,6 +299,15 @@
         playSongOnce: function(path, layerName) {
             var name = layerName || 'music';
             var layer = layers[name];
+
+            if (name === 'sfx') {
+                if (!layer.enabled) return;
+                var sfxAudio = new Audio(path);
+                sfxAudio.volume = muted ? 0 : layer.volume;
+                sfxAudio.play().catch(function() {});
+                return;
+            }
+
             var targetVol = muted ? 0 : layer.volume;
 
             if (layer.audio) {
@@ -327,9 +336,7 @@
                         clearInterval(fadeIn);
                     }
                 }, 50);
-                newAudio.onended = function() {
-                    layer.audio = null; // clear reference so resume doesn't replay it
-                };
+                newAudio.onended = null;
             }, 800);
         },
 
