@@ -4,7 +4,9 @@ max-visits: 1
 new-page: true
 tags: event
 
-= Vorwärts - 15.02.1928
+{!<div class="main-portrait-box"><div class="main-portrait-label">Vorwärts - 15.02.1928</div><img class="main-portrait-img" src="img/WIP.jpg"></div>!}
+ 
+ = **All Parties**
 
 SPD
 SAPD
